@@ -12,7 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikero41&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-nikero.vercel.app/api/top-langs/?username=nikero41&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=snikoletopoulos&icon=6&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
