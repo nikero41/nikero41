@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Utrecht, Netherlands<br>🚀 I'm currently working on {insert your open source project here}<br>🧠 I'm learning Go and TUIs<br>🤝 I'm open to collaborating on Go projects<br>✉️ You can contact me at snikoletopoulos@hotmail.com
+🌍 I'm based in Utrecht, Netherlands<br>🚀 I'm currently working on {insert your open source project here}<br>🧠 I'm learning Rust and TUIs<br>🤝 I'm open to collaborating on Rust/Go projects<br>✉️ You can contact me at snikoletopoulos@hotmail.com
 
 
 ## 🌐 Socials:
